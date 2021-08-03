@@ -1,0 +1,119 @@
+body{
+
+    background-image:url('https://img2.goodfon.ru/wallpaper/nbig/8/18/art-atenebris-peyzazh-gory.jpg') fixed;
+
+    background-size: cover !important;
+
+    font-family:Times New Roman;
+
+} 
+
+ 
+
+.navbar-main /* Section containing the site navigation. */ {
+
+    background-color: #0d2b44;
+
+    opacity: 0.9;
+
+}
+
+ 
+
+.navbar-main .nav-link /* Individual navigation links. */ {
+
+    background-color: #0d2b44;
+
+    opacity: 0.9;
+
+}
+
+ 
+
+.navbar-status /* Status bar containing your currencies, etc. */ {
+
+    background-color: #1f4463;
+
+    opacity: 0.9;
+
+}
+
+ 
+
+.breadcrumb-nav /* Gray breadcrumb bar under the status bar. */ {
+
+    background-color: #425b70;
+
+    opacity: 0.9;
+
+}
+
+ 
+
+#sidebar /* Section containing the sidebar. */ {
+
+    background-color: #425b70;
+
+    opacity: 0.9;
+
+}
+
+ 
+
+#sidebar .card /* "Card" sections of the sidebar. */ {
+
+    background-color: #566f84;
+
+    opacity: 0.9;
+
+}
+
+ 
+
+#sidebar h3, #sidebar h4 /* Card headers. */ {
+
+         font-color: #242f3c;
+
+}
+
+ 
+
+#main /* Section containing the site's main content. */ {
+
+    background-color: #566f84;
+
+    font-color: #242f3c;
+
+}
+
+ 
+
+h1 /* Title header. */ {
+
+    font-color: #242f3c;
+
+}
+
+ 
+
+.nav-tabs /* Section containing the Den and Profile links. */ {
+
+    background-color: #425b70;
+
+}
+
+ 
+
+.nav-tabs .nav-link /* Individual links of the above section. */ {
+
+    font-color: #242f3c;
+
+}
+
+ 
+
+.nav-tabs .nav-link.active /* Link of the page being viewed. */ {
+
+    background-color: #566f84;
+
+} 
